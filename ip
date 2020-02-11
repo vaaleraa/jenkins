@@ -1,0 +1,370 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-02-09 16:12 UTC
+Nmap scan report for 10.50.28.5
+Host is up (-0.20s latency).
+MAC Address: 00:A3:8E:7A:2E:E7 (Cisco Systems)
+Nmap scan report for 10.50.28.9
+Host is up (-0.20s latency).
+MAC Address: AC:16:2D:89:C9:CC (Hewlett Packard)
+Nmap scan report for 10.50.28.10
+Host is up (-0.20s latency).
+MAC Address: A0:D3:C1:06:63:36 (Hewlett Packard)
+Nmap scan report for 10.50.28.11
+Host is up (0.00033s latency).
+MAC Address: 3C:A8:2A:21:A6:70 (Hewlett Packard)
+Nmap scan report for 10.50.28.12
+Host is up (0.00014s latency).
+MAC Address: 34:97:F6:5B:1F:E1 (Asustek Computer)
+Nmap scan report for 10.50.28.15
+Host is up (-0.20s latency).
+MAC Address: 34:97:F6:00:FF:90 (Asustek Computer)
+Nmap scan report for 10.50.28.24
+Host is up (0.00100s latency).
+MAC Address: 00:C0:B7:54:FE:1B (American Power Conversion)
+Nmap scan report for 10.50.28.25
+Host is up (0.00067s latency).
+MAC Address: 28:29:86:15:F9:DA (APC by Schneider Electric)
+Nmap scan report for 10.50.28.26
+Host is up (0.00020s latency).
+MAC Address: 00:50:56:86:63:17 (VMware)
+Nmap scan report for 10.50.28.33
+Host is up (0.00063s latency).
+MAC Address: 00:50:56:86:37:E4 (VMware)
+Nmap scan report for 10.50.28.35
+Host is up (0.00071s latency).
+MAC Address: 00:50:56:86:4D:A1 (VMware)
+Nmap scan report for 10.50.28.36
+Host is up (0.00070s latency).
+MAC Address: 00:50:56:86:7D:DC (VMware)
+Nmap scan report for 10.50.28.40
+Host is up (-0.20s latency).
+MAC Address: 00:08:9B:C6:73:7A (ICP Electronics)
+Nmap scan report for 10.50.28.41
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:86:25:61 (VMware)
+Nmap scan report for 10.50.28.43
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:86:5E:FE (VMware)
+Nmap scan report for 10.50.28.58
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:86:5F:12 (VMware)
+Nmap scan report for 10.50.28.59
+Host is up (0.00036s latency).
+MAC Address: 00:50:56:86:43:F3 (VMware)
+Nmap scan report for 10.50.28.60
+Host is up (0.0011s latency).
+MAC Address: F0:9F:C2:66:24:27 (Ubiquiti Networks)
+Nmap scan report for 10.50.28.61
+Host is up (0.00034s latency).
+MAC Address: 00:50:56:86:1E:43 (VMware)
+Nmap scan report for _gateway (10.50.28.62)
+Host is up (0.0014s latency).
+MAC Address: 68:BC:0C:50:20:41 (Cisco Systems)
+Nmap scan report for 10.50.28.63
+Host is up (0.00038s latency).
+MAC Address: 00:50:56:86:59:F3 (VMware)
+Nmap scan report for 10.50.28.70
+Host is up (-0.20s latency).
+MAC Address: 24:5E:BE:27:4A:D1 (Qnap Systems)
+Nmap scan report for 10.50.28.72
+Host is up (0.00080s latency).
+MAC Address: 00:50:56:86:27:24 (VMware)
+Nmap scan report for 10.50.28.74
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:86:2B:C0 (VMware)
+Nmap scan report for 10.50.28.75
+Host is up (0.00056s latency).
+MAC Address: 00:50:56:61:DF:DB (VMware)
+Nmap scan report for 10.50.28.76
+Host is up (0.00043s latency).
+MAC Address: 00:50:56:64:D7:AB (VMware)
+Nmap scan report for 10.50.28.77
+Host is up (0.00046s latency).
+MAC Address: 00:50:56:61:FB:0E (VMware)
+Nmap scan report for 10.50.28.78
+Host is up (0.00071s latency).
+MAC Address: 00:50:56:86:0C:B8 (VMware)
+Nmap scan report for 10.50.28.80
+Host is up (0.00056s latency).
+MAC Address: 14:C2:13:ED:A7:3F (Unknown)
+Nmap scan report for 10.50.28.81
+Host is up (0.00062s latency).
+MAC Address: 3C:07:54:5B:FB:4D (Apple)
+Nmap scan report for 10.50.28.83
+Host is up (0.0011s latency).
+MAC Address: A8:20:66:2E:48:BC (Apple)
+Nmap scan report for 10.50.28.87
+Host is up (0.00051s latency).
+MAC Address: 00:50:56:86:5D:19 (VMware)
+Nmap scan report for 10.50.28.104
+Host is up (0.00048s latency).
+MAC Address: 00:0C:29:6C:34:B9 (VMware)
+Nmap scan report for 10.50.28.105
+Host is up (0.00046s latency).
+MAC Address: 00:50:56:86:7D:FF (VMware)
+Nmap scan report for 10.50.28.109
+Host is up (0.00056s latency).
+MAC Address: 00:50:56:B1:1A:DE (VMware)
+Nmap scan report for 10.50.28.114
+Host is up (0.00026s latency).
+MAC Address: 00:50:56:86:6E:21 (VMware)
+Nmap scan report for 10.50.28.117
+Host is up (0.00057s latency).
+MAC Address: 00:50:56:B1:CC:4E (VMware)
+Nmap scan report for 10.50.28.118
+Host is up (0.00058s latency).
+MAC Address: 00:50:56:86:1A:22 (VMware)
+Nmap scan report for 10.50.28.120
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:86:12:A0 (VMware)
+Nmap scan report for 10.50.28.123
+Host is up (-0.19s latency).
+MAC Address: 00:87:31:83:67:C9 (Cisco Systems)
+Nmap scan report for 10.50.28.124
+Host is up (-0.19s latency).
+MAC Address: 00:87:31:83:65:C8 (Cisco Systems)
+Nmap scan report for 10.50.28.125
+Host is up (-0.19s latency).
+MAC Address: 08:CC:A7:AA:3B:82 (Cisco Systems)
+Nmap scan report for 10.50.28.126
+Host is up (-0.20s latency).
+MAC Address: 00:B8:B3:63:1D:73 (Unknown)
+Nmap scan report for 10.50.28.131
+Host is up (0.00083s latency).
+MAC Address: 38:20:56:01:8C:60 (Cisco Systems)
+Nmap scan report for 10.50.28.135
+Host is up (0.00035s latency).
+MAC Address: 9C:B6:54:81:DF:36 (Hewlett Packard)
+Nmap scan report for 10.50.28.136
+Host is up (0.00030s latency).
+MAC Address: 84:3D:C6:D7:6D:52 (Cisco Systems)
+Nmap scan report for 10.50.28.137
+Host is up (0.00041s latency).
+MAC Address: 84:3D:C6:2C:8B:1C (Cisco Systems)
+Nmap scan report for 10.50.28.140
+Host is up (0.0010s latency).
+MAC Address: EC:B1:D7:79:B4:12 (Hewlett Packard)
+Nmap scan report for 10.50.28.150
+Host is up (0.00040s latency).
+MAC Address: 28:92:4A:34:F4:82 (Hewlett Packard)
+Nmap scan report for 10.50.28.165
+Host is up (-0.20s latency).
+MAC Address: 34:97:F6:5B:1F:E3 (Asustek Computer)
+Nmap scan report for 10.50.28.180
+Host is up (0.00054s latency).
+MAC Address: 34:97:F6:00:FF:93 (Asustek Computer)
+Nmap scan report for 10.50.28.203
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:B1:36:64 (VMware)
+Nmap scan report for 10.50.28.208
+Host is up (0.00025s latency).
+MAC Address: D0:39:EA:10:65:56 (Unknown)
+Nmap scan report for 10.50.28.209
+Host is up (0.00065s latency).
+MAC Address: F8:72:EA:D7:44:AD (Cisco Systems)
+Nmap scan report for 10.50.28.210
+Host is up (0.00078s latency).
+MAC Address: F0:7F:06:4F:8B:35 (Cisco Systems)
+Nmap scan report for 10.50.28.211
+Host is up (0.00072s latency).
+MAC Address: F8:72:EA:24:48:33 (Cisco Systems)
+Nmap scan report for 10.50.28.212
+Host is up (0.00060s latency).
+MAC Address: 00:C0:FF:13:2D:38 (DOT Hill Systems)
+Nmap scan report for 10.50.28.217
+Host is up (0.00065s latency).
+MAC Address: 00:50:56:B1:C2:96 (VMware)
+Nmap scan report for 10.50.28.241
+Host is up (0.0025s latency).
+MAC Address: D0:39:EA:10:65:5C (Unknown)
+Nmap scan report for 10.50.28.245
+Host is up (0.00020s latency).
+MAC Address: 00:50:56:B1:36:B7 (VMware)
+Nmap scan report for msKdQGr2I9ziT (10.50.28.204)
+Host is up.
+Nmap done: 256 IP addresses (61 hosts up) scanned in 7.50 seconds
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-02-09 16:13 UTC
+Nmap scan report for 10.50.28.5
+Host is up (-0.20s latency).
+MAC Address: 00:A3:8E:7A:2E:E7 (Cisco Systems)
+Nmap scan report for 10.50.28.9
+Host is up (-0.20s latency).
+MAC Address: AC:16:2D:89:C9:CC (Hewlett Packard)
+Nmap scan report for 10.50.28.10
+Host is up (-0.20s latency).
+MAC Address: A0:D3:C1:06:63:36 (Hewlett Packard)
+Nmap scan report for 10.50.28.11
+Host is up (-0.20s latency).
+MAC Address: 3C:A8:2A:21:A6:70 (Hewlett Packard)
+Nmap scan report for 10.50.28.12
+Host is up (-0.20s latency).
+MAC Address: 34:97:F6:5B:1F:E1 (Asustek Computer)
+Nmap scan report for 10.50.28.15
+Host is up (-0.20s latency).
+MAC Address: 34:97:F6:00:FF:90 (Asustek Computer)
+Nmap scan report for 10.50.28.24
+Host is up (0.00100s latency).
+MAC Address: 00:C0:B7:54:FE:1B (American Power Conversion)
+Nmap scan report for 10.50.28.25
+Host is up (0.00060s latency).
+MAC Address: 28:29:86:15:F9:DA (APC by Schneider Electric)
+Nmap scan report for 10.50.28.26
+Host is up (0.00019s latency).
+MAC Address: 00:50:56:86:63:17 (VMware)
+Nmap scan report for 10.50.28.33
+Host is up (0.00058s latency).
+MAC Address: 00:50:56:86:37:E4 (VMware)
+Nmap scan report for 10.50.28.35
+Host is up (0.00073s latency).
+MAC Address: 00:50:56:86:4D:A1 (VMware)
+Nmap scan report for 10.50.28.36
+Host is up (0.00064s latency).
+MAC Address: 00:50:56:86:7D:DC (VMware)
+Nmap scan report for 10.50.28.40
+Host is up (-0.20s latency).
+MAC Address: 00:08:9B:C6:73:7A (ICP Electronics)
+Nmap scan report for 10.50.28.41
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:86:25:61 (VMware)
+Nmap scan report for 10.50.28.43
+Host is up (-0.20s latency).
+MAC Address: 00:50:56:86:5E:FE (VMware)
+Nmap scan report for 10.50.28.58
+Host is up (0.00024s latency).
+MAC Address: 00:50:56:86:5F:12 (VMware)
+Nmap scan report for 10.50.28.59
+Host is up (0.00045s latency).
+MAC Address: 00:50:56:86:43:F3 (VMware)
+Nmap scan report for 10.50.28.60
+Host is up (0.0011s latency).
+MAC Address: F0:9F:C2:66:24:27 (Ubiquiti Networks)
+Nmap scan report for 10.50.28.61
+Host is up (0.00049s latency).
+MAC Address: 00:50:56:86:1E:43 (VMware)
+Nmap scan report for _gateway (10.50.28.62)
+Host is up (0.0014s latency).
+MAC Address: 68:BC:0C:50:20:41 (Cisco Systems)
+Nmap scan report for 10.50.28.63
+Host is up (0.00058s latency).
+MAC Address: 00:50:56:86:59:F3 (VMware)
+Nmap scan report for 10.50.28.70
+Host is up (-0.20s latency).
+MAC Address: 24:5E:BE:27:4A:D1 (Qnap Systems)
+Nmap scan report for 10.50.28.72
+Host is up (0.00044s latency).
+MAC Address: 00:50:56:86:27:24 (VMware)
+Nmap scan report for 10.50.28.74
+Host is up (0.00067s latency).
+MAC Address: 00:50:56:86:2B:C0 (VMware)
+Nmap scan report for 10.50.28.75
+Host is up (0.00030s latency).
+MAC Address: 00:50:56:61:DF:DB (VMware)
+Nmap scan report for 10.50.28.76
+Host is up (0.00038s latency).
+MAC Address: 00:50:56:64:D7:AB (VMware)
+Nmap scan report for 10.50.28.77
+Host is up (0.00033s latency).
+MAC Address: 00:50:56:61:FB:0E (VMware)
+Nmap scan report for 10.50.28.78
+Host is up (0.00058s latency).
+MAC Address: 00:50:56:86:0C:B8 (VMware)
+Nmap scan report for 10.50.28.80
+Host is up (0.0015s latency).
+MAC Address: 14:C2:13:ED:A7:3F (Unknown)
+Nmap scan report for 10.50.28.81
+Host is up (0.00073s latency).
+MAC Address: 3C:07:54:5B:FB:4D (Apple)
+Nmap scan report for 10.50.28.83
+Host is up (0.0016s latency).
+MAC Address: A8:20:66:2E:48:BC (Apple)
+Nmap scan report for 10.50.28.87
+Host is up (0.00077s latency).
+MAC Address: 00:50:56:86:5D:19 (VMware)
+Nmap scan report for 10.50.28.104
+Host is up (0.00046s latency).
+MAC Address: 00:0C:29:6C:34:B9 (VMware)
+Nmap scan report for 10.50.28.105
+Host is up (0.00055s latency).
+MAC Address: 00:50:56:86:7D:FF (VMware)
+Nmap scan report for 10.50.28.109
+Host is up (0.00059s latency).
+MAC Address: 00:50:56:B1:1A:DE (VMware)
+Nmap scan report for 10.50.28.114
+Host is up (0.00017s latency).
+MAC Address: 00:50:56:86:6E:21 (VMware)
+Nmap scan report for 10.50.28.117
+Host is up (0.00077s latency).
+MAC Address: 00:50:56:B1:CC:4E (VMware)
+Nmap scan report for 10.50.28.118
+Host is up (0.00072s latency).
+MAC Address: 00:50:56:86:1A:22 (VMware)
+Nmap scan report for 10.50.28.120
+Host is up (0.00017s latency).
+MAC Address: 00:50:56:86:12:A0 (VMware)
+Nmap scan report for 10.50.28.123
+Host is up (-0.19s latency).
+MAC Address: 00:87:31:83:67:C9 (Cisco Systems)
+Nmap scan report for 10.50.28.124
+Host is up (-0.19s latency).
+MAC Address: 00:87:31:83:65:C8 (Cisco Systems)
+Nmap scan report for 10.50.28.125
+Host is up (-0.19s latency).
+MAC Address: 08:CC:A7:AA:3B:82 (Cisco Systems)
+Nmap scan report for 10.50.28.126
+Host is up (-0.20s latency).
+MAC Address: 00:B8:B3:63:1D:73 (Unknown)
+Nmap scan report for 10.50.28.131
+Host is up (0.00076s latency).
+MAC Address: 38:20:56:01:8C:60 (Cisco Systems)
+Nmap scan report for 10.50.28.135
+Host is up (0.00035s latency).
+MAC Address: 9C:B6:54:81:DF:36 (Hewlett Packard)
+Nmap scan report for 10.50.28.136
+Host is up (0.00036s latency).
+MAC Address: 84:3D:C6:D7:6D:52 (Cisco Systems)
+Nmap scan report for 10.50.28.137
+Host is up (0.00042s latency).
+MAC Address: 84:3D:C6:2C:8B:1C (Cisco Systems)
+Nmap scan report for 10.50.28.140
+Host is up (0.00041s latency).
+MAC Address: EC:B1:D7:79:B4:12 (Hewlett Packard)
+Nmap scan report for 10.50.28.150
+Host is up (0.00067s latency).
+MAC Address: 28:92:4A:34:F4:82 (Hewlett Packard)
+Nmap scan report for 10.50.28.165
+Host is up (0.00045s latency).
+MAC Address: 34:97:F6:5B:1F:E3 (Asustek Computer)
+Nmap scan report for 10.50.28.180
+Host is up (0.00046s latency).
+MAC Address: 34:97:F6:00:FF:93 (Asustek Computer)
+Nmap scan report for 10.50.28.203
+Host is up (0.00037s latency).
+MAC Address: 00:50:56:B1:36:64 (VMware)
+Nmap scan report for 10.50.28.208
+Host is up (0.00040s latency).
+MAC Address: D0:39:EA:10:65:56 (Unknown)
+Nmap scan report for 10.50.28.209
+Host is up (0.0013s latency).
+MAC Address: F8:72:EA:D7:44:AD (Cisco Systems)
+Nmap scan report for 10.50.28.210
+Host is up (0.00084s latency).
+MAC Address: F0:7F:06:4F:8B:35 (Cisco Systems)
+Nmap scan report for 10.50.28.211
+Host is up (0.00076s latency).
+MAC Address: F8:72:EA:24:48:33 (Cisco Systems)
+Nmap scan report for 10.50.28.212
+Host is up (0.00047s latency).
+MAC Address: 00:C0:FF:13:2D:38 (DOT Hill Systems)
+Nmap scan report for 10.50.28.217
+Host is up (0.00057s latency).
+MAC Address: 00:50:56:B1:C2:96 (VMware)
+Nmap scan report for 10.50.28.241
+Host is up (0.00033s latency).
+MAC Address: D0:39:EA:10:65:5C (Unknown)
+Nmap scan report for 10.50.28.245
+Host is up (0.00011s latency).
+MAC Address: 00:50:56:B1:36:B7 (VMware)
+Nmap scan report for msKdQGr2I9ziT (10.50.28.204)
+Host is up.
+Nmap done: 256 IP addresses (61 hosts up) scanned in 7.27 seconds
