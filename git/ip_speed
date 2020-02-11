@@ -1,5 +1,5 @@
 
-Starting Nmap 7.60 ( https://nmap.org ) at 2020-02-11 16:29 UTC
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-02-11 16:34 UTC
 Nmap scan report for 10.50.28.5
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.9
@@ -7,23 +7,23 @@ Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.10
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.11
-Host is up (0.00035s latency).
+Host is up (0.00049s latency).
 Nmap scan report for 10.50.28.12
-Host is up (0.000046s latency).
+Host is up (0.00016s latency).
 Nmap scan report for 10.50.28.15
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.24
-Host is up (0.0012s latency).
+Host is up (0.0010s latency).
 Nmap scan report for 10.50.28.25
-Host is up (-0.17s latency).
+Host is up (0.00069s latency).
 Nmap scan report for 10.50.28.26
-Host is up (0.00013s latency).
+Host is up (0.00020s latency).
 Nmap scan report for 10.50.28.33
-Host is up (0.00062s latency).
-Nmap scan report for 10.50.28.35
 Host is up (0.00066s latency).
+Nmap scan report for 10.50.28.35
+Host is up (0.00064s latency).
 Nmap scan report for 10.50.28.36
-Host is up (0.00065s latency).
+Host is up (0.00063s latency).
 Nmap scan report for 10.50.28.40
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.41
@@ -31,105 +31,105 @@ Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.43
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.58
-Host is up (0.00019s latency).
+Host is up (0.00017s latency).
 Nmap scan report for 10.50.28.59
-Host is up (0.00055s latency).
+Host is up (0.00038s latency).
 Nmap scan report for 10.50.28.60
-Host is up (0.00067s latency).
+Host is up (0.0011s latency).
 Nmap scan report for 10.50.28.61
-Host is up (0.00090s latency).
+Host is up (0.00056s latency).
 Nmap scan report for _gateway (10.50.28.62)
-Host is up (0.0016s latency).
+Host is up (0.0015s latency).
 Nmap scan report for 10.50.28.63
-Host is up (0.00042s latency).
+Host is up (0.00039s latency).
 Nmap scan report for 10.50.28.70
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.72
-Host is up (0.00058s latency).
+Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.74
-Host is up (0.00059s latency).
+Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.75
-Host is up (0.00040s latency).
+Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.76
-Host is up (0.00047s latency).
+Host is up (0.00041s latency).
 Nmap scan report for 10.50.28.77
-Host is up (0.00046s latency).
+Host is up (0.00041s latency).
 Nmap scan report for 10.50.28.78
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.80
 Host is up (0.0015s latency).
 Nmap scan report for 10.50.28.81
-Host is up (0.00068s latency).
+Host is up (0.00095s latency).
 Nmap scan report for 10.50.28.83
-Host is up (0.0013s latency).
+Host is up (0.0011s latency).
 Nmap scan report for 10.50.28.87
-Host is up (0.00053s latency).
+Host is up (0.00059s latency).
 Nmap scan report for 10.50.28.104
-Host is up (-0.20s latency).
-Nmap scan report for 10.50.28.105
-Host is up (0.00067s latency).
-Nmap scan report for 10.50.28.109
 Host is up (0.00062s latency).
-Nmap scan report for 10.50.28.114
-Host is up (0.00017s latency).
-Nmap scan report for 10.50.28.117
-Host is up (0.00066s latency).
-Nmap scan report for 10.50.28.118
-Host is up (0.00071s latency).
-Nmap scan report for 10.50.28.120
+Nmap scan report for 10.50.28.105
+Host is up (0.00044s latency).
+Nmap scan report for 10.50.28.109
 Host is up (-0.20s latency).
+Nmap scan report for 10.50.28.114
+Host is up (0.00019s latency).
+Nmap scan report for 10.50.28.117
+Host is up (0.00064s latency).
+Nmap scan report for 10.50.28.118
+Host is up (0.00064s latency).
+Nmap scan report for 10.50.28.120
+Host is up (0.00015s latency).
 Nmap scan report for 10.50.28.123
 Host is up (-0.19s latency).
 Nmap scan report for 10.50.28.124
-Host is up (-0.19s latency).
+Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.125
-Host is up (0.0039s latency).
+Host is up (-0.17s latency).
 Nmap scan report for 10.50.28.126
-Host is up (0.00053s latency).
+Host is up (0.00065s latency).
 Nmap scan report for 10.50.28.131
-Host is up (-0.20s latency).
+Host is up (0.00096s latency).
 Nmap scan report for 10.50.28.135
-Host is up (-0.20s latency).
-Nmap scan report for 10.50.28.136
-Host is up (0.00028s latency).
-Nmap scan report for 10.50.28.137
-Host is up (-0.20s latency).
-Nmap scan report for 10.50.28.140
-Host is up (0.00036s latency).
-Nmap scan report for 10.50.28.150
-Host is up (0.00036s latency).
-Nmap scan report for 10.50.28.165
-Host is up (0.00045s latency).
-Nmap scan report for 10.50.28.180
-Host is up (0.00053s latency).
-Nmap scan report for 10.50.28.203
-Host is up (0.00022s latency).
-Nmap scan report for 10.50.28.208
-Host is up (-0.20s latency).
-Nmap scan report for 10.50.28.209
 Host is up (0.00062s latency).
+Nmap scan report for 10.50.28.136
+Host is up (0.00024s latency).
+Nmap scan report for 10.50.28.137
+Host is up (0.00043s latency).
+Nmap scan report for 10.50.28.140
+Host is up (0.00035s latency).
+Nmap scan report for 10.50.28.150
+Host is up (0.00053s latency).
+Nmap scan report for 10.50.28.165
+Host is up (0.00060s latency).
+Nmap scan report for 10.50.28.180
+Host is up (0.00055s latency).
+Nmap scan report for 10.50.28.203
+Host is up (0.00020s latency).
+Nmap scan report for 10.50.28.208
+Host is up (0.00026s latency).
+Nmap scan report for 10.50.28.209
+Host is up (0.00056s latency).
 Nmap scan report for 10.50.28.210
-Host is up (0.00074s latency).
+Host is up (0.00048s latency).
 Nmap scan report for 10.50.28.211
 Host is up (0.00068s latency).
 Nmap scan report for 10.50.28.212
 Host is up (0.00040s latency).
 Nmap scan report for 10.50.28.217
-Host is up (0.00064s latency).
+Host is up (0.00043s latency).
 Nmap scan report for 10.50.28.241
 Host is up (-0.20s latency).
 Nmap scan report for 10.50.28.245
-Host is up (0.00015s latency).
+Host is up (0.00032s latency).
 Nmap scan report for msKdQGr2I9ziT (10.50.28.204)
 Host is up.
-Nmap done: 256 IP addresses (61 hosts up) scanned in 8.72 seconds
+Nmap done: 256 IP addresses (61 hosts up) scanned in 7.48 seconds
 
    Speedtest by Ookla
 
-     Server: MGTS - Minsk (id = 1119)
+     Server: BYFLY.BY - Minsk (id = 25480)
         ISP: Mobile TeleSystems JLLC
-    Latency:     1.70 ms   (0.06 ms jitter)
-   Download:   241.86 Mbps (data used: 283.5 MB)                               
-     Upload:   247.17 Mbps (data used: 281.1 MB)                               
+    Latency:     1.48 ms   (0.03 ms jitter)
+   Download:   247.07 Mbps (data used: 287.3 MB)                               
+     Upload:   246.92 Mbps (data used: 281.0 MB)                               
 Packet Loss:     0.0%
- Result URL: https://www.speedtest.net/result/c/1426ce32-82ca-47a8-9615-248e3c3500f2
+ Result URL: https://www.speedtest.net/result/c/0d58f927-eb61-4432-856c-ed6a661a1753
